@@ -47,6 +47,14 @@ También disponible mediante:
 $ sudo apt-get install ffmpeg
 ```
 
+**NOTA**:  Es necesario instalarlo con algunos flags activados para poder trabajar con formatos como *OGG* o *WebM*, incluyendo libvpx, libvorbis  y theora.
+En Mac, puede reinstalarse ffmpeg con el siguiente comando:
+```
+ffmpeg --with-libvpx --with-libvorbis --with-theora
+
+```
+
+
 * [Youtube-dl](http://rg3.github.io/youtube-dl/), escrito en Python y empleado para las dos funcionalidades de descarga de vídeo y audio de la plataforma Youtube.
 Se puede instalar también mediante pip:
 ```
