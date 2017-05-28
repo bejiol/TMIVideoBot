@@ -15,16 +15,26 @@ La idea de implementarlo como un bot de Telegram nace de la familiarización de 
 
 Como el proyecto avanzaba con rapidez, se decidió ampliar la funcionalidad del mismo, siendo la funcionalidad final la siguiente:
 
- /**help:** Listado de todo lo que se puede hacer con el bot.
- /**convert:**Convertir un vídeo a otro formato.
- /**compress:** Comprimir un vídeo especificando calidad de salida.
- /**youtube <url> :** Obtener un vídeo de youtube.
- /**youtubetomp3 <url>:** Obtener el audio de un vídeo.
- /**gif:** Crear un GIF de un vídeo indicando segundos de inicio y fin.
- /**onlyaudio:** Extraer audio de un vídeo.
- /**onlyvideo:** Extraer imagen de un vídeo.
- /**clip:** Cortar vídeo de segundo inicio a segundo fin.
- /**videoaudio:** Unir vídeo con determinado audio en  MKV.
+-  /**help:** Listado de todo lo que se puede hacer con el bot.
+ 
+ - /**convert:**Convertir un vídeo a otro formato.
+ 
+ - /**compress:** Comprimir un vídeo especificando calidad de salida.
+ 
+ - /**youtube <url> :** Obtener un vídeo de youtube.
+ 
+ - /**youtubetomp3 <url>:** Obtener el audio de un vídeo.
+ 
+ - /**gif:** Crear un GIF de un vídeo indicando segundos de inicio y fin.
+ 
+-  /**onlyaudio:** Extraer audio de un vídeo.
+ 
+ - /**onlyvideo:** Extraer imagen de un vídeo.
+ 
+ - /**clip:** Cortar vídeo de segundo inicio a segundo fin.
+ 
+ - /**videoaudio:** Unir vídeo con determinado audio en  MKV.
+ 
  
 ### Requisitos:
 
