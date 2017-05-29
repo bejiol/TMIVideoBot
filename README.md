@@ -17,7 +17,7 @@ Como el proyecto avanzaba con rapidez, se decidió ampliar la funcionalidad del 
 
 -  /**help:** Listado de todo lo que se puede hacer con el bot.
  
- - /**convert:**Convertir un vídeo a otro formato.
+- /**convert:** Convertir un vídeo a otro formato.
  
  - /**compress:** Comprimir un vídeo especificando calidad de salida.
  
