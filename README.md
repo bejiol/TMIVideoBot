@@ -40,6 +40,11 @@ Como el proyecto avanzaba con rapidez, se decidió ampliar la funcionalidad del 
 
 Para poder desplegar el bot correctamente, lo primero que se debe hacer es crear nuestro bot.  Para ello es útil emplear [Bot father](https://telegram.me/botfather), que nos permitirá configurarlo en unos pocos pasos, decidiendo el alias de nuestro bot, su foto de perfil y otras opciones. Este bot "creador de bots", nos devolverá un Token de autenticación que deberemos copiar en nuestro codigo en la variable ***token***.
 
+Para poner en ejecución el bot, una vez instalado como se detalla más adelante, basta con ejecutarlo de la siguiente forma:
+```
+$ python TMIVideoBot.py
+``` 
+
 Por otro lado, se cuenta con las siguientes dependencias y requisitos:
 
 * Ha sido implementado con la versión de Python 2.7.12.
