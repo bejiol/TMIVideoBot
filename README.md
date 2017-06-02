@@ -70,7 +70,7 @@ ffmpeg --with-libvpx --with-libvorbis --with-theora
 ```
 
 
-* [Youtube-dl](http://rg3.github.io/youtube-dl/), escrito en Python y empleado para las dos funcionalidades de descarga de vídeo y audio de la plataforma Youtube.
+* [Youtube-dl](https://github.com/rg3/youtube-dl/), escrito en Python y empleado para las dos funcionalidades de descarga de vídeo y audio de la plataforma Youtube.
 Se puede instalar también mediante pip:
 ```
 $ sudo pip install --upgrade youtube_dl
